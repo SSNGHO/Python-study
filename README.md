@@ -17,6 +17,6 @@
 
 > 참조
 
-Link: [점프 투 파이썬][link1]
+Link1: [점프 투 파이썬][link1]
 
 [link1]: https://wikidocs.net/book/1
