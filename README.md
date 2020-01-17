@@ -23,11 +23,9 @@
 
 [link3]: https://wikibook.co.kr/python-ds-handbook/
 
-  * (4) [numpy exercises][link4]
+  * (4) [numpy exercises][link4], [pandas exercises][link5]
   
-  [link4]: https://github.com/rougier/numpy-100, 
-  
-  [pandas exercises][link5]
+  [link4]: https://github.com/rougier/numpy-100
   
   [link5]: https://github.com/guipsamora/pandas_exercises
 
