@@ -23,7 +23,7 @@
 
 [link3]: https://wikibook.co.kr/python-ds-handbook/
 
-  - (4) 데이터 분석에서 자주 사용하는 [numpy exercises][link4], [pandas exercises][link5]  
+  - (4) 데이터 분석에서 자주 사용하는 [numpy exercises][link4], [pandas exercises][link5] 추가 학습
   
   [link4]: https://github.com/rougier/numpy-100
   
@@ -34,4 +34,7 @@
 ###  기간
 
   - 2020.1월 ~ 2월 말(목표)
-
+ 
+    - 2020.01.17 ~ 2020.01.18 : 점프 투 파이썬
+    
+    - 
