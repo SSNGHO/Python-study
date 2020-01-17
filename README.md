@@ -19,7 +19,7 @@
 [link2]: https://www.inflearn.com/course/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8-%EA%B0%95%EC%A2%8C#
 
 
-  - (3) 책 ['파이썬 데이터 사이언스 핸드북'][link3] : numpy, pandas, scipy, matplotlib, sciket-learn
+  - (3) 책 ['파이썬 데이터 사이언스 핸드북'][link3] : numpy, pandas, scipy, matplotlib, sciket-learn을 다룸
 
 [link3]: https://wikibook.co.kr/python-ds-handbook/
 
