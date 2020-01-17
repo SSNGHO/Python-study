@@ -1,5 +1,6 @@
 # Python-study
-### ver. 2020.01.17
+
+#### ver. 2020.01.17
 - - -
 
 ###  목적
@@ -9,7 +10,7 @@
 
 ###  TO DO LIST
 
-  * (1) 책 ['점프 투 파이썬'][link1] 빠르게 복습
+  * (1) 책 ['점프 투 파이썬'][link1]
 
 [link1]: https://wikidocs.net/book/1
 
@@ -22,9 +23,15 @@
 
 [link3]: https://wikibook.co.kr/python-ds-handbook/
 
-  * (4) numpy exercises, pandas exercises
+  * (4) [numpy exercises][link4]
+  
+  [link4]: https://github.com/rougier/numpy-100, [pandas exercises][link5]
+  
+  [link5]: https://github.com/guipsamora/pandas_exercises
 
 
 
-####  기간 : 2020.1월 ~ 2월 말(목표)
+###  기간
+
+  * 2020.1월 ~ 2월 말(목표)
 
