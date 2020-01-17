@@ -23,7 +23,7 @@
 
 [link3]: https://wikibook.co.kr/python-ds-handbook/
 
-  - (4) 데이터 분석에서 자주 사용하는 [numpy exercises][link4], [pandas exercises][link5] 
+  - (4) 데이터 분석에서 자주 사용하는 [numpy exercises][link4], [pandas exercises][link5]  
   
   [link4]: https://github.com/rougier/numpy-100
   
