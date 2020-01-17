@@ -25,7 +25,9 @@
 
   * (4) [numpy exercises][link4]
   
-  [link4]: https://github.com/rougier/numpy-100, [pandas exercises][link5]
+  [link4]: https://github.com/rougier/numpy-100, 
+  
+  [pandas exercises][link5]
   
   [link5]: https://github.com/guipsamora/pandas_exercises
 
